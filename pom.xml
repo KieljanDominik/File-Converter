@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>5.0.0</version> <!-- Use the latest version -->
+            <version>5.1.0</version> <!-- Use the latest version -->
         </dependency>
         <dependency> <groupId>fr.opensagres.xdocreport</groupId> <artifactId>org.apache.poi.xwpf.converter.pdf</artifactId> <version>LATEST</version> </dependency>
     </dependencies>
